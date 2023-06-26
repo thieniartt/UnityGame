@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - spell
+  - Player
+  - 
+  - Enemy
+  - EnemyAtkHitBox
+  - Ground
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tiles_down
+    uniqueID: 3058722375
+    locked: 0
+  - name: tiles
+    uniqueID: 545545899
+    locked: 0
+  - name: player
+    uniqueID: 4265071095
+    locked: 0
+  - name: enemy
+    uniqueID: 3641102239
+    locked: 0
+  - name: tile_up
+    uniqueID: 1381125595
+    locked: 0
+  - name: UI
+    uniqueID: 1619969899
+    locked: 0
